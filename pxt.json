@@ -10,7 +10,8 @@
         "main.blocks",
         "main.ts",
         "README.md",
-        "ST7735.ts"
+        "ST7735.ts",
+        "74HC165.ts"
     ],
     "testFiles": [
         "test.ts"
